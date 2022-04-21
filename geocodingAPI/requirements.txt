@@ -1,0 +1,4 @@
+dicttoxml==1.7.4
+Flask==2.1.1
+requests==2.27.1
+xmltodict==0.12.0
